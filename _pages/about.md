@@ -14,7 +14,7 @@ redirect_from:
 - **Email**: 2024124027@chd.edu.cn
 - **Phone**: +86 17320582779
 - **Location**: Xi'an, Shaanxi, China
-- **GitHub**: [academicpages](https://github.com/academicpages)
+- **GitHub**: [17320582779](https://github.com/17320582779)
 
 ## Educational Background
 - **Wuhan Institute of Technology** (2020 - 2024)
